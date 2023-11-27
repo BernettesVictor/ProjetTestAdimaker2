@@ -4,6 +4,7 @@ from settings import tile_size, screen_width
 from player import Player
 from particles import ParticleEffect
 
+
 class Level:
     def __init__(self,level_data,surface):
 
